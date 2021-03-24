@@ -1,9 +1,7 @@
-Hola mi nombre es Jose David Herrera Lara 
+Hola mi nombre es Jose David 
 
-Tengo 18 años 
+tnego 18 años 
 
-estoy tratando de ser mas disciplinado 
+estoy tratando de ponerme juicioso
 
-estudiare una 2 horas diarias de lo que sea
-
-estoy en quinto de semestre de desarrollo de software
+estudiare una 1 diaria de lo que sea, para aprender mas 
