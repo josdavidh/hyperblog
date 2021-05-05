@@ -42,3 +42,8 @@ body {
 #container h1{
     font-size: 36px;
 }
+
+#footer {
+    background-color: dimgrey;
+    padding: 15px;
+}
