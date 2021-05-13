@@ -43,6 +43,10 @@ body {
     font-size: 36px;
 }
 
+.img-post img {
+    width: 350px;
+}
+
 #footer {
     background-color: dimgrey;
     padding: 15px;
